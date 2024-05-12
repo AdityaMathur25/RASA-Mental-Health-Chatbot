@@ -6,7 +6,9 @@ Mental health chatbot developed in RASA Framework, to analyse person's chances o
 
 RASA is an open-source framework used to Build contextual AI assistants and chatbots in text and voice with open source machine learning framework.
 
-# Mental Health Chatbot development and Getting Started with RASA:
-Checkout my blog for instructions from RASA Installation to developing chatbots : [My Medium Blog](https://medium.datadriveninvestor.com/rasa-ai-chatbot-for-mental-health-1b3f13827ce3)
+# Demonstration
+
+![image](https://github.com/AdityaMathur25/RASA-Mental-Health-Chatbot/assets/61025539/0e5898ed-a5d8-4fd4-b658-0df40f47b1a3)
+
 
 
